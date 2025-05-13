@@ -8,5 +8,5 @@ bfj
   })
   .catch((error) => {
     console.log(error);
-  });
+  });    //结束
 
